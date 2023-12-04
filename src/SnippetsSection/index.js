@@ -2,7 +2,7 @@ import React from 'react'
 
 const SnippetsSection = () => {
     return (
-        <div className='section-container my-20 px-10 flex flex-col items-center'>
+        <div className='section-container my-20 flex flex-col items-center'>
             <h3>
                 Kepp track of your snippets
             </h3>
@@ -11,9 +11,6 @@ const SnippetsSection = () => {
                 your snippets immediately on all your devices. Our Mac and iOS apps will help you
                 organize everything.
             </p>
-            <div className='flex flex-col md:flex-row'>
-
-            </div>
         </div>
     )
 }

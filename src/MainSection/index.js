@@ -3,7 +3,7 @@ import logo from '../images/logo.svg';
 
 const MainSection = () => {
     return (
-        <div className='section-container mb-40 px-10 pt-16 flex flex-col items-center'>
+        <div className='section-container mb-40 pt-16 flex flex-col items-center'>
             <img className='mx-auto my-16' src={logo} />
             <h3>
                 A history of everything you copy
