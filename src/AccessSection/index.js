@@ -7,7 +7,7 @@ const AccessSection = () => {
             <h3>
                 Access Clipboard anywhere
             </h3>
-            <p className='text-2xl max-w-3xl mx-auto leading-9 text-grayishBlue mb-10'>
+            <p className='section-paragraph'>
                 Whether you're on the go, or at your computer, you can access all your Clipboard snippets in a few simple clicks.
             </p>
             <img className='mx-auto' src={devices} />

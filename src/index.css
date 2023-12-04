@@ -6,10 +6,17 @@
   h3 {
     @apply text-4xl md:text-5xl mb-8 text-darkGrayishBlue font-bold;
   }
+  h5 {
+    @apply text-2xl text-darkGrayishBlue font-bold mb-2;
+  }
 }
 
 .section-container {
   @apply max-w-6xl mx-auto text-center px-10;
+}
+
+.section-paragraph {
+  @apply text-2xl max-w-3xl mx-auto leading-9 text-grayishBlue mb-10;
 }
 
 .button-container {
