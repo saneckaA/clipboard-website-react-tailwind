@@ -12,7 +12,7 @@ const MainSection = () => {
                 Clipboard allows you to track and organize everything you copy.
                 Instantly access your clipboard on all your devices
             </p>
-            <div className='flex flex-col justify-center w-full md:flex-row space-y-6 text-xl md:space-x-4 md:space-y-0'>
+            <div className='button-container'>
                 <button className='bg-strongCyan text-white text-center rounded-full py-2 px-8 shadow-lg
                 duration-200 hover:opacity-80'>
                     Download for IOS

@@ -12,6 +12,10 @@
   @apply max-w-6xl mx-auto text-center;
 }
 
+.button-container {
+  @apply flex flex-col justify-center w-full md:flex-row space-y-6 text-xl md:space-x-4 md:space-y-0;
+}
+
 body {
   background-image: url('./images/bg-header-desktop.png');
   background-repeat: no-repeat;
