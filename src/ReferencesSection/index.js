@@ -8,11 +8,11 @@ import vector from '../images/logo-vector-graphics.png';
 const ReferencesSection = () => {
   return (
     <div className='flex flex-col items-center justify-between max-w-6xl px-10 mx-auto space-y-16 my-44 md:flex-row md:space-y-0'>
-        <img src={google} />
-        <img src={hp} />
-        <img src={ibm} />
-        <img src={microsoft} />
-        <img src={vector} />
+        <img className='hover:scale-105 duration-200 cursor-pointer' src={google} />
+        <img className='hover:scale-105 duration-200 cursor-pointer' src={hp} />
+        <img className='hover:scale-105 duration-200 cursor-pointer' src={ibm} />
+        <img className='hover:scale-105 duration-200 cursor-pointer' src={microsoft} />
+        <img className='hover:scale-105 duration-200 cursor-pointer' src={vector} />
     </div>
   )
 }

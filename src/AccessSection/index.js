@@ -10,7 +10,7 @@ const AccessSection = () => {
             <p className='section-paragraph'>
                 Whether you're on the go, or at your computer, you can access all your Clipboard snippets in a few simple clicks.
             </p>
-            <img className='mx-auto' src={devices} />
+            <img className='mx-auto hover:scale-105 duration-200 cursor-pointer' src={devices} />
         </div>
     )
 }

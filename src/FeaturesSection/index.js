@@ -6,7 +6,7 @@ const FeaturesSection = () => {
     return (
         <div className='section-container my-20 flex flex-col md:flex-row md:space-x-32 items-center relative '>
             <div className='md:w-1/2'>
-                <img className='md:absolute top-0 right-[50%]' src={computer} />
+                <img className='md:absolute top-0 right-[50%] hover:scale-105 duration-200 cursor-pointer' src={computer} />
             </div>
             <div className='flex flex-col mt-16 mb-24 space-y-12 text-xl md:w-1/2 md:mb-60 md:text-left md:pl-15'>
                 <div>
