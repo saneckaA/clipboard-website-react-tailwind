@@ -1,3 +1,4 @@
+import AccessSection from './AccessSection';
 import './App.css';
 import FeaturesSection from './FeaturesSection';
 import MainSection from './MainSection';
@@ -9,6 +10,7 @@ function App() {
       <MainSection />
       <SnippetsSection />
       <FeaturesSection />
+      <AccessSection />
     </div>
 
   );
