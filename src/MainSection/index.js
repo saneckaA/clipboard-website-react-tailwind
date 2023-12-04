@@ -3,9 +3,9 @@ import logo from '../images/logo.svg';
 
 const MainSection = () => {
     return (
-        <div className='max-w-6xl mx-auto text-center mb-40 px-10 pt-16 flex flex-col items-center'>
+        <div className='section-container mb-40 px-10 pt-16 flex flex-col items-center'>
             <img className='mx-auto my-16' src={logo} />
-            <h3 className='text-4xl md:text-5xl mb-8 text-darkGrayishBlue font-bold'>
+            <h3>
                 A history of everything you copy
             </h3>
             <p className='text-2xl max-w-3xl mx-auto text-grayishBlue mb-10'>
