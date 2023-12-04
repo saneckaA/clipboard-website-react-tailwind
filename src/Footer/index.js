@@ -13,15 +13,15 @@ const Footer = () => {
                     <div className='flex flex-col md:flex-row items-center justify-between flex-1 mb-10 space-y-8 md:mb-0 md:space-y-0 text-grayishBlue'>
                         <div className='flex flex-col space-y-4 md:flex-row md:ml-24 md:space-x-24 md:space-y-0'>
                             <div className='flex flex-col space-y-4 text-center md:text-left'>
-                                <div><a href="#" className='hover:text-strongCyan' />FAQs</div>
-                                <div><a href="#" className='hover:text-strongCyan' />Contact Us</div>
+                                <div className='cursor-pointer'><a href="#" className='hover:text-strongCyan' />FAQs</div>
+                                <div className='cursor-pointer'><a href="#" className='hover:text-strongCyan' />Contact Us</div>
                             </div>
                             <div className='flex flex-col space-y-4 text-center md:text-left'>
-                                <div><a href="#" className='hover:text-strongCyan' />Privacy Policy</div>
-                                <div><a href="#" className='hover:text-strongCyan' />Press Kit</div>
+                                <div className='cursor-pointer'><a href="#" className='hover:text-strongCyan' />Privacy Policy</div>
+                                <div className='cursor-pointer'><a href="#" className='hover:text-strongCyan' />Press Kit</div>
                             </div>
                             <div className='flex flex-col space-y-4 text-center md:text-left'>
-                                <div><a href="#" className='hover:text-strongCyan' />Install Quide</div>
+                                <div className='cursor-pointer'><a href="#" className='hover:text-strongCyan' />Install Quide</div>
                             </div>
                         </div>
                         <div className='flex justify-between w-32 py-1'>
