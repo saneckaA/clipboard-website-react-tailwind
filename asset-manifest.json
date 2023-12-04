@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/clipboard-website-react-tailwind/static/css/main.7ecf4cfb.css",
+    "main.js": "/clipboard-website-react-tailwind/static/js/main.e5068bfe.js",
+    "static/js/787.d71fdbb2.chunk.js": "/clipboard-website-react-tailwind/static/js/787.d71fdbb2.chunk.js",
+    "static/media/image-computer.png": "/clipboard-website-react-tailwind/static/media/image-computer.65db67db202be4e74616.png",
+    "static/media/bg-header-desktop.png": "/clipboard-website-react-tailwind/static/media/bg-header-desktop.3d39ff8e4eec581d1f91.png",
+    "static/media/image-devices.png": "/clipboard-website-react-tailwind/static/media/image-devices.7a9f93355333984b7941.png",
+    "static/media/bg-header-mobile.png": "/clipboard-website-react-tailwind/static/media/bg-header-mobile.611a5565d2de8072be1f.png",
+    "static/media/icon-preview.svg": "/clipboard-website-react-tailwind/static/media/icon-preview.9d260cdcabe46fdc423492bfe2e317cf.svg",
+    "static/media/icon-blacklist.svg": "/clipboard-website-react-tailwind/static/media/icon-blacklist.00461066f8dc77314608696b24ffca29.svg",
+    "index.html": "/clipboard-website-react-tailwind/index.html",
+    "static/media/icon-instagram.svg": "/clipboard-website-react-tailwind/static/media/icon-instagram.6916c290ec7f973be569508e95332846.svg",
+    "static/media/icon-text.svg": "/clipboard-website-react-tailwind/static/media/icon-text.bfeafe4f926a2231d23e32e8c3da68da.svg",
+    "static/media/icon-twitter.svg": "/clipboard-website-react-tailwind/static/media/icon-twitter.09334153919ab7925dce3b54b4b9a815.svg",
+    "static/media/icon-facebook.svg": "/clipboard-website-react-tailwind/static/media/icon-facebook.7e5a10f05d754f6e65372e20a5452d60.svg",
+    "static/media/logo.svg": "/clipboard-website-react-tailwind/static/media/logo.99709bee9527fac7b703e0053be7feda.svg",
+    "main.7ecf4cfb.css.map": "/clipboard-website-react-tailwind/static/css/main.7ecf4cfb.css.map",
+    "main.e5068bfe.js.map": "/clipboard-website-react-tailwind/static/js/main.e5068bfe.js.map",
+    "787.d71fdbb2.chunk.js.map": "/clipboard-website-react-tailwind/static/js/787.d71fdbb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ecf4cfb.css",
+    "static/js/main.e5068bfe.js"
+  ]
+}
